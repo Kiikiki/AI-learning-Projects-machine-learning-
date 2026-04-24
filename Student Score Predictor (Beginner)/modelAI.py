@@ -29,8 +29,8 @@ print("MSE:", mse)
 
 #baseline prediction
 print("\nBaseline Prediction (is my model better than the most basic?)")                 #a simple model that always predicts the average score of the training data
-baseline = np.mean(y_train)                         #average score of the training data
-baseline_predictions = [baseline] * len(y_test)     #predicts the average score for all test data
+baseline = np.mean(y_train)                                       #average score of the training data
+baseline_predictions = [baseline] * len(y_test)                   #predicts the average score for all test data
 baseline_mse = mean_squared_error(y_test, baseline_predictions)   #calculate MSE for baseline
 
 print("Baseline MSE:", baseline_mse)

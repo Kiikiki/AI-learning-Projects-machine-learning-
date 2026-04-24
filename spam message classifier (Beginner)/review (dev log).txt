@@ -1,0 +1,11 @@
+so we can use 3 classification technique
+- Naive Bayes (apparently most use this): 
+  looks into the text for spam what words usually come out and use that to calculate
+- Logistic Regression: 
+  Looks into a combination of words so for example "Free Money" how likely when these 
+  two words are together it is a spam?
+- Decision Tree
+  Looks for certain keywords and from there is it more probable to be a spam?
+
+accuracy wise from smallest to biggest
+Naive Bayes < Decision Tree < Logistic Regressioncl
