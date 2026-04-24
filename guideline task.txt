@@ -1,0 +1,20 @@
+Beginner Projects:
+- Student Score Predictor
+- spam message classifier
+- movie reccomendation system
+
+Intermediete Projects:
+- house price prediction
+- image classifier (cats vs dogs or somethin else)
+- sentiment analysis (negative/positive)
+
+Advance Projects:
+- end to end ML system
+- mini chatbot
+- fraud detection system
+
+- To Shorten the folder path -
+function prompt {
+    $path = Split-Path -Leaf (Get-Location)
+    "PS $path> "
+}
