@@ -1,0 +1,17 @@
+so from what i learned most people use matrix factorization or KNN
+so we'll make two models and see which is better. 
+We have 3 users let's see what these 3 users will get recommended with
+
+- KNN / Nearest Neighbors: 
+  people who like similar things will be recommended
+  so for this situation if a 2 users like similar things it'll recommend a movie based of each other
+  not only that it'll recommend movies that are similar to the ones they've watched.  
+- matrix factorization:
+  similar like KNN but much more in depth, by using hidden traits.
+  In this situation for example users
+  Users will have a listed trait like action, romance with a degree of how much they like that type
+  and same goes with movies it will calculate a percentage of how much of that trait will that movie have
+  so it's more in depth someone could like romance, but only like a tiny bit of it 
+  a matrix factorization can detect that.
+
+
