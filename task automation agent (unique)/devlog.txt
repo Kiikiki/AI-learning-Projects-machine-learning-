@@ -1,0 +1,10 @@
+Gotta make an Ai Agent
+
+Ai Agent = LLM + tools + memory + control loop
+probably going to make an automation assistant cause maybe i can use it later
+so it can do email, calender, reminders
+
+user gives task -> LLM decide action -> call tool -> observe result -> repeat until done
+
+so what i need to do is connect it to an LLM (openAI), make tools, let LLM choose an action, make loop
+
