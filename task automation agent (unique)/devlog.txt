@@ -12,3 +12,8 @@ DON'T AND I MEAN IT DON'T UPLOAD CREDENTIALS BY ACCIDENT PLEASE
 
 work email only contains = upcoming events, task submission, class schedule change
 the ai agent won't get info of upcoming tasks or
+
+I hate modulesss it's confusing i can't remember where the functions are AHHHHHHHHH
+
+problem with view task fix it later since i change the the status to be completed instead of delete
+it won't say no assignment since by technically it not empty

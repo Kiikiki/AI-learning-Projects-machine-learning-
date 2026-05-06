@@ -1,4 +1,3 @@
-
 from openai import OpenAI
 from emailTool import authenticateGmail, getEmails, thisWeekEmail
 
