@@ -9,3 +9,4 @@ user gives task -> LLM decide action -> call tool -> observe result -> repeat un
 so what i need to do is connect it to an LLM (openAI), make tools, let LLM choose an action, make loop
 
 DON'T AND I MEAN IT DON'T UPLOAD CREDENTIALS BY ACCIDENT PLEASE
+
