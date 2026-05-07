@@ -22,3 +22,17 @@ PROBLEM!!! openAI ain't free switch to gemini I ain't paying this
 
 if your reading this i realized my mistakes and changed the key... I forgot to env before committing too
 that it works... yeah 
+
+Testing deadline results:
+Current Tasks:
+1. Assignement 11: Dynamic Programming - Deadline: 2026-05-03 23:59:00 (Overdue by 4 days ago)
+2. compsecweekyes - Deadline: 2026-05-07 23:59:00 (Due Today)
+3. yes - Deadline: 2026-05-07 03:00:00 (Overdue by 1 days ago)
+
+as you can see it ain't by hour so maybe fix later
+
+Testing deletion:
+it deleted the whole list... fix it later
+
+Testing the agent itself:
+unsure results gemini got overloaded need to optimize it
