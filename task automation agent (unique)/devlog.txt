@@ -17,3 +17,8 @@ I hate modulesss it's confusing i can't remember where the functions are AHHHHHH
 
 problem with view task fix it later since i change the the status to be completed instead of delete
 it won't say no assignment since by technically it not empty
+
+PROBLEM!!! openAI ain't free switch to gemini I ain't paying this
+
+if your reading this i realized my mistakes and changed the key... I forgot to env before committing too
+that it works... yeah 
